@@ -1,0 +1,53 @@
+
+
+._left_content{
+    position: relative;
+    top:-10px;
+    margin-left:4rem;
+    /* margin-bottom:1rem; */
+    margin-top:1rem;
+   
+}
+
+
+._dash_board{
+    position: relative;
+    top:7px; 
+    right:14px; 
+}
+
+._content_{
+    font-size: 19px;
+    font-weight:400
+}
+._heading_{
+    margin: 2.8rem;
+    font-weight: 600;
+   
+}
+
+._stus_{
+    font-weight:100
+}
+
+._contact_help{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position:relative;
+    top:215px;
+    right:40px;  
+    font-weight:50;
+    font-size: 15px; 
+}
+
+.help{
+    position:relative;
+    right:18px;
+}
+
+._contact_us{
+    margin-top:0.9rem;
+}
+

@@ -1,0 +1,71 @@
+.Navcomponent{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border:1px solid black; */
+    height:8vh;
+    margin-top:2.5rem;
+}
+
+.Image_search_toggle{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Right_nav_dash{
+    margin-left:3rem;
+    font-size: 1.5rem;
+    font-weight:700
+}
+.Input_Search{
+   margin-right:0.4rem;
+   background-color: whitesmoke;
+   border-style: none;
+   
+  
+}
+
+.Input_Search> input{
+    padding:8px 3px 8px 3px;
+    border-style:none;
+    border-radius:12px;
+
+}
+
+.Input_Search> input > placeholder{
+    margin-left:1rem;
+}
+
+.Button_Image_{
+    margin-right:2rem; 
+    margin-top: 0.6rem;
+}
+
+.Circle_image{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:0.6rem;
+    margin-right:3rem;
+    border:1px solid black;
+    height:50px;
+    width:50px;
+    border-radius:50%;
+}
+
+._Button_{
+    position:relative;
+    left:-30px;
+    top:10px;
+    font-weight:100;
+    opacity:0.3;  
+}
+
+
+
+::placeholder { 
+    opacity: 0.7;
+    position:relative;
+    left:10px;
+  }

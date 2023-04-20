@@ -1,0 +1,10 @@
+._Chart_{
+    height:45vh;
+    /* border:1px solid green; */
+    margin-top:2.5rem;
+    margin-left:2.8rem;
+    margin-right:2.8rem;
+    border-radius:12px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+    background: #ffffff;
+}

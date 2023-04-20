@@ -1,0 +1,90 @@
+._Dataanalysis_{
+    display:flex;
+    margin:2.5;
+    height:42vh;
+    
+    /* border:1px solid black; */
+}
+
+._char_analaysis{
+    /* border:1px solid black; */
+    width: 37vw;
+    margin-top:2.5rem;
+    margin-left:2.8rem;
+    border-radius:12px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+    background: #ffffff;
+    /* margin-right:2.8rem; */
+
+}
+
+._content_analysis{
+    /* border:1px solid black; */
+    width:37vw;
+    margin-left:2.9rem;
+    margin-top:2.5rem;
+    margin-right:2.8rem;
+    border-radius:12px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+    background: #ffffff;
+}
+
+._schedule_{
+    /* position :relative;
+    left:20px; */
+    display:flex;
+    justify-content: space-between;
+    margin-top:2rem;
+    font-size:20px;
+    color:black;
+    font-weight:700;
+    margin-left:40px;
+    /* margin-left:20px; */
+}
+
+._see_{
+    /* margin-left:17.3rem; */
+    font-weight:200;
+    margin-left:190px;
+    font-size:15px;
+} 
+
+._content_right_{
+    display:flex;
+    margin-left:2.7rem;
+    margin-top:1.3rem;
+}
+
+._line_{
+    /* border:1px solid black; */
+    width:6px;
+    background: rgb(171, 232, 171);;
+    height:10vh;
+    
+}
+._right_content_{
+    /* border:1px solid green; */
+    margin-left:0.3rem;
+    
+}
+
+._meet_{
+    margin-top:-0.3rem;
+    font-size: 15px;
+    font-weight:400
+}
+
+._date_{
+    margin-top:-1rem;
+    font-weight:200;
+    color:rgb(156, 152, 152) 
+}
+._set_{
+    margin-top:-1rem;
+    font-weight:200;
+    color:rgb(156, 152, 152) 
+}
+
+#_line_2{
+    background-color: rgb(158, 101, 211);
+}
